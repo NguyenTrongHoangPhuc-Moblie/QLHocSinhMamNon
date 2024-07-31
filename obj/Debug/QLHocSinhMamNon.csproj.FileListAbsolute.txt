@@ -1,0 +1,14 @@
+D:\Document_HUFI\HK_05\TH-QTCSDL\DoAnCuoiMon\QLHocSinhMamNon\bin\Debug\QLHocSinhMamNon.exe.config
+D:\Document_HUFI\HK_05\TH-QTCSDL\DoAnCuoiMon\QLHocSinhMamNon\bin\Debug\QLHocSinhMamNon.exe
+D:\Document_HUFI\HK_05\TH-QTCSDL\DoAnCuoiMon\QLHocSinhMamNon\bin\Debug\QLHocSinhMamNon.pdb
+D:\Document_HUFI\HK_05\TH-QTCSDL\DoAnCuoiMon\QLHocSinhMamNon\obj\Debug\QLHocSinhMamNon.csproj.AssemblyReference.cache
+D:\Document_HUFI\HK_05\TH-QTCSDL\DoAnCuoiMon\QLHocSinhMamNon\obj\Debug\QLHocSinhMamNon.csproj.SuggestedBindingRedirects.cache
+D:\Document_HUFI\HK_05\TH-QTCSDL\DoAnCuoiMon\QLHocSinhMamNon\obj\Debug\QLHocSinhMamNon.Form1.resources
+D:\Document_HUFI\HK_05\TH-QTCSDL\DoAnCuoiMon\QLHocSinhMamNon\obj\Debug\QLHocSinhMamNon.Properties.Resources.resources
+D:\Document_HUFI\HK_05\TH-QTCSDL\DoAnCuoiMon\QLHocSinhMamNon\obj\Debug\QLHocSinhMamNon.csproj.GenerateResource.cache
+D:\Document_HUFI\HK_05\TH-QTCSDL\DoAnCuoiMon\QLHocSinhMamNon\obj\Debug\QLHocSinhMamNon.csproj.CoreCompileInputs.cache
+D:\Document_HUFI\HK_05\TH-QTCSDL\DoAnCuoiMon\QLHocSinhMamNon\obj\Debug\QLHocSinhMamNon.exe
+D:\Document_HUFI\HK_05\TH-QTCSDL\DoAnCuoiMon\QLHocSinhMamNon\obj\Debug\QLHocSinhMamNon.pdb
+D:\HUFI\HK_5\TH_HQTCSDL\DoAnCuoiMon\QLHocSinhMamNon\bin\Debug\QLHocSinhMamNon.exe.config
+D:\HUFI\HK_5\TH_HQTCSDL\DoAnCuoiMon\QLHocSinhMamNon\obj\Debug\QLHocSinhMamNon.exe
+D:\HUFI\HK_5\TH_HQTCSDL\DoAnCuoiMon\QLHocSinhMamNon\obj\Debug\QLHocSinhMamNon.pdb
